@@ -9,7 +9,7 @@ This repository contains the `karma9.exe` file, which is the executable for Karm
 To get started with Karma OS on Windows, you can clone this repository using Git. Open your terminal or command prompt and run the following command:
 
 ```sh
-git clone https://github.com/CodeRreaper69/karma_win.git
+git clone https://github.com/CodeRreaper69/karma_win.
 ```
 
 This command will clone the `karma_win` repository to your local machine.
